@@ -1,6 +1,6 @@
-# Les extraordinaires aventures de Léa et Zac
+# [5+] Les extraordinaires aventures de Léa et Zac
 
-![Cover des es extraordinaires aventures de Léa et Zac](https://raw.githubusercontent.com/DantSu/Histoires-Libres/main/les-extraordinaires-aventures-de-lea-et-zac/cover.png)
+![Cover des extraordinaires aventures de Léa et Zac](https://raw.githubusercontent.com/histoires-pour-tous/les-extraordinaires-aventures-de-lea-et-zac/main/cover.png)
 
 8 histoires à composer :
 
